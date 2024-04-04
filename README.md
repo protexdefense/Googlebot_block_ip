@@ -5,9 +5,9 @@ Uso
 
 Você pode usar esta lista para diversas finalidades, como:
 
-    Configurar regras de firewall para permitir o acesso do Googlebot ao seu servidor.
-    Analisar o tráfego originado pelo Googlebot em logs de acesso.
-    Identificar comportamentos anômalos ou tentativas de acesso maliciosas atribuídas a IPs do Googlebot.
+Configurar regras de firewall para permitir o acesso do Googlebot ao seu servidor.
+Analisar o tráfego originado pelo Googlebot em logs de acesso.
+Identificar comportamentos anômalos ou tentativas de acesso maliciosas atribuídas a IPs do Googlebot.
 
 Importante
 
@@ -22,4 +22,6 @@ Recursos Adicionais
 
 Para obter informações mais detalhadas sobre o Googlebot e suas diretrizes de rastreamento, consulte a documentação oficial do Google:
 
-    Documentação do Google sobre o Googlebot
+# Documentação do Google sobre o Googlebot
+
+        https://developers.google.com/search/docs/crawling-indexing/verifying-googlebot?hl=pt-br#automatic
