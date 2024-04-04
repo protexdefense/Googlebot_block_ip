@@ -1,4 +1,4 @@
-Lista de IPs do Googlebot
+# Lista de IPs do Googlebot
 
 Esta lista contém os endereços IP conhecidos do Googlebot, o web crawler do Google, para facilitar o gerenciamento de tráfego e a configuração de políticas de acesso para sites e servidores web. Esses IPs são importantes para garantir que o Googlebot possa acessar e indexar o conteúdo do seu site de forma eficiente.
 Uso
